@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/controls/Animation.qml</file>
+        <file>qml/controls/Button.qml</file>
+        <file>qml/controls/Icon.qml</file>
+        <file>qml/controls/Label.qml</file>
+        <file>qml/controls/RoundButton.qml</file>
+        <file>qml/controls/Sprite.qml</file>
+        <file>qml/gamecomponents/Ceiling.qml</file>
+        <file>qml/gamecomponents/GameLayout.qml</file>
+        <file>qml/gamecomponents/GameOverLayout.qml</file>
+        <file>qml/gamecomponents/GameScene.qml</file>
+        <file>qml/gamecomponents/GetReadyLayout.qml</file>
+        <file>qml/gamecomponents/Ground.qml</file>
+        <file>qml/gamecomponents/PauseLayout.qml</file>
+        <file>qml/gamecomponents/Player.qml</file>
+        <file>qml/gamecomponents/Stalactite.qml</file>
+        <file>qml/gamecomponents/Stalagmite.qml</file>
+        <file>qml/gamecomponents/WorldPrefab.qml</file>
+        <file>qml/screens/AboutScreen.qml</file>
+        <file>qml/screens/BlankScreen.qml</file>
+        <file>qml/screens/GameScreen.qml</file>
+        <file>qml/screens/IntroScreen.qml</file>
+        <file>qml/screens/MenuScreen.qml</file>
+        <file>qml/scripts/Functions.js</file>
+        <file>qml/main.qml</file>
+        <file>resources/fonts/fontawesome.ttf</file>
+        <file>resources/fonts/yanonekaffeesatzbold.ttf</file>
+        <file>resources/images/background.svg</file>
+        <file>resources/images/ground.svg</file>
+        <file>resources/images/logo.svg</file>
+        <file>resources/images/plane0.svg</file>
+        <file>resources/images/plane1.svg</file>
+        <file>resources/images/plane2.svg</file>
+        <file>resources/images/stalactite.svg</file>
+        <file>resources/images/stalagmite.svg</file>
+        <file>resources/music/intro.mp3</file>
+        <file>resources/music/theme.mp3</file>
+        <file>resources/sounds/crash.wav</file>
+        <file>resources/sounds/tap.wav</file>
+    </qresource>
+</RCC>
